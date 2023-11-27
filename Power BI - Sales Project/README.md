@@ -43,8 +43,11 @@ Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 | Profit | Profit/Loss incurred. | 
 
 ## Dashboard Navigation
-- Use the filters on the top to select specific time periods, regions, segments, ship modes, or product categories.
+- Use the filters on the top to select regions, segments, ship modes, product categories, and/or specific time periods.
 - Click on the map to drill down into specific data points.
+
+![123231232131](https://github.com/Jessymac96/Data-analyst-projects-by-Jessy-MacIsaac/assets/139941688/d234a8d8-843b-44b1-afe0-f5cff6b1e81d)
+
 
 ## Interpretation
 - The line chart displays monthly and yearly sales trends.
@@ -54,12 +57,17 @@ Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Statistics show the sum of sales, sum of profit, number of orders, and number of customers.
 
 ## Summary of Findings
+### Monthly sales trend.
+- This line chart has consistent sales growth, except for a sharp decline in sales and a subsequent decrease in profits every January and February.
+- Despite overall growth, the drop in these months suggests a post-holiday sales slump, suggesting a need for focused winter marketing strategies to counteract this seasonal decline.
 
+### Top-selling products
+- Over the past 3 years, phones and chairs have consistently demonstrated high demand as technological products, while storage, tables, and blinders have followed closely as secondary contenders.
+- From 2016 to 2017, phone sales increased by 33% due to technological advancements, new features, and the release of new models.
 
-
-
-
-
+### Sales by region and state
+- Over 3 years, the west and east are leading, followed by the central and southern regions.
+- From 2016 to 2017, sales in the West and South regions increased by over 30%, while the East saw an 18% increase. However, the Central region experienced a slight decrease in sales.
 
 ## Contact
 https://www.linkedin.com/in/jessy-macisaac-a7500423b/
