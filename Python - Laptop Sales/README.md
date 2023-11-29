@@ -1,4 +1,4 @@
-# Sales Performance Dashboard with Python
+# Laptop Prices with Python
 Welcome to my first Python project. The primary objective of this project is to explore and analyze the laptop sales data, to uncover insightful trends and meaningful patterns.
 I aim to showcase my skills in data cleaning, visualization creation, and interpretation of key metrics.
 
