@@ -1,9 +1,8 @@
-# Sales Performance Dashboard with Power BI
+# Vehicle Sales Performance Dashboard with Excel
 Welcome to my first Excel project. The primary objective of this project is to explore and analyze the vehicle sales data, to uncover insightful trends and meaningful patterns.
 I aim to showcase my skills in data cleaning, pivot tables, and visualization creation.
 
 ## Table of Contents
-- [Features](#Features)
 - [Tools Used](#Tools-Used)
 - [Data Source](#Data-Source)
 - [Sheet Navigation](#Sheet-Navigation)
