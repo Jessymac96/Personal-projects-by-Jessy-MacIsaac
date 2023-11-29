@@ -3,7 +3,6 @@ Welcome to my first Power BI project. The primary objective of this project is t
 I aim to showcase my skills in data cleaning, visualization creation, and interpretation of key metrics.
 
 ## Table of Contents
-- [Features](#Features)
 - [Tools Used](#Tools-Used)
 - [Data Source](#Data-Source)
 - [Dashboard Navigation](#Dashboard-Navigation)
