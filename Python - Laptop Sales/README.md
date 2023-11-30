@@ -7,6 +7,7 @@ I aim to showcase my skills in data cleaning, visualization creation, and interp
 - [Technologies Used](#Technologies-Used)
 - [Data Source](#Data-Source)
 - [Summary of Findings](#Summary-of-Findings)
+- [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
 
 ## Installation
@@ -44,6 +45,9 @@ Source: https://www.kaggle.com/datasets/talhabarkaatahmad/laptop-prices-dataset-
 - In October 2023, the most popular screen size for laptops sold on Amazon was 15.6 inches, totaling 1995 units. Following closely was the 14.0-inch screen size, with 1113 units sold. The 16.0-inch size accounted for 362 units, 15.66 inches for 196 units, 13.3 inches for 194 units, and 17.3 inches for 150 units.
 
 For additional findings, please refer to the Power BI file located in this repository.
+
+## Acknowledgments
+I would like to extend my gratitude to **Phobia42** and **Shimmer97** who are members of SeattleDataGuy's Data Server for their valuable insights, feedback, and support throughout the development of this project. The discussions and interactions within the community have been instrumental in shaping various aspects of this work.
 
 ## Contact
 https://www.linkedin.com/in/jessy-macisaac-a7500423b/
