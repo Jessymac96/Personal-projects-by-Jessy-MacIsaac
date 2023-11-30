@@ -9,6 +9,7 @@ I aim to showcase my skills in data cleaning, pivot tables, and visualization cr
 - [Dashboard Navigation](#Dashboard-Navigation)
 - [Interpretation](#Interpretation)
 - [Summary of Findings](#Summary-of-Findings)
+- [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
 
 ## Tools Used
@@ -73,6 +74,9 @@ Source: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/code?datasetI
 
 ### Top Customers
 - Over a span of 2.5 years, the Euro Shopping Channel experienced a sales increase of 242%, while Mini Gifts Distributors Ltd saw a staggering 436% rise in sales.
+
+## Acknowledgments
+I would like to extend my gratitude to **Phobia42** and **Shimmer97** who are members of SeattleDataGuy's Data Server for their valuable insights, feedback, and support throughout the development of this project. The discussions and interactions within the community have been instrumental in shaping various aspects of this work.
 
 ## Contact
 https://www.linkedin.com/in/jessy-macisaac-a7500423b/
