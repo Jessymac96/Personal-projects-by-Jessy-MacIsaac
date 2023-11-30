@@ -8,6 +8,7 @@ I aim to showcase my skills in data cleaning, visualization creation, and interp
 - [Dashboard Navigation](#Dashboard-Navigation)
 - [Interpretation](#Interpretation)
 - [Summary of Findings](#Summary-of-Findings)
+- [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
 
 ## Tools Used
@@ -67,6 +68,9 @@ Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ### Sales by region and state
 - Over 3 years, the west and east are leading, followed by the central and southern regions.
 - From 2016 to 2017, sales in the West and South regions increased by over 30%, while the East saw an 18% increase. However, the Central region experienced a slight decrease in sales.
+
+## Acknowledgments
+I would like to extend my gratitude to **Phobia42** and **Shimmer97** who are members of SeattleDataGuy's Data Server for their valuable insights, feedback, and support throughout the development of this project. The discussions and interactions within the community have been instrumental in shaping various aspects of this work.
 
 ## Contact
 https://www.linkedin.com/in/jessy-macisaac-a7500423b/
