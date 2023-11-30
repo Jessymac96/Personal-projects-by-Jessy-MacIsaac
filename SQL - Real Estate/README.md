@@ -1,4 +1,4 @@
-***** Still working on this project *****
+***** Still working on this readme project *****
 
 # Real Estate SQL Project
 Welcome to my **Real Estate SQL project**. In this project, I'll be exploring real estate data to find interesting trends and patterns.
@@ -41,7 +41,7 @@ Source: https://www.kaggle.com/datasets/shree1992/housedata/code?datasetId=46927
 ## Summary of Findings
 ### 
 
-
+For additional findings, please refer to the SQL file located in this repository.
 
 ## Acknowledgments
 I would like to extend my gratitude to **Phobia42** and **Shimmer97** who are members of SeattleDataGuy's Data Server for their valuable insights, feedback, and support throughout the development of this project. The discussions and interactions within the community have been instrumental in shaping various aspects of this work.
