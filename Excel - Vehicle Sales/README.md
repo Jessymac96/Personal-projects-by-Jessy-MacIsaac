@@ -14,7 +14,7 @@ I aim to showcase my skills in data cleaning, pivot tables, and visualization cr
 - [Contact](#Contact)
 
 ## Tools Used
-- Excel (Pivot Tables, Pivot Charts, Slicers)
+- Excel (Pivot Tables, Pivot Charts, Slicers, XLookups)
 
 ## Data Source
 Source: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/code?datasetId=435&sortBy=voteCount
@@ -55,6 +55,7 @@ This sales dataset records from **January 2003** to **May 2005**.
 - After sheet - refined data ready for analysis, including pivot tables and dashboard creation.
 - Pivot Tables - contains pivot tables derived from the 'After' data.
 - Dashboard - interactive dashboard.
+- XLookup - customer lookup information.
 
 ## Dashboard Navigation
 - Use the filters on the top to select the deal size, customer name, country, product line, and/or specific time periods.
@@ -91,26 +92,26 @@ This sales dataset records from **January 2003** to **May 2005**.
 
 #### Top Countries
   - US: **39% increase**.
-    - Possible Reason: Large deal sizes have **tripled**.
+    - *Possible Reason*: Large deal sizes have **tripled**.
   
   - Spain: **87% increase**.
-    - Possible Reason: Growing interest in **different** vehicle types.
+    - *Possible Reason*: Growing interest in **different** vehicle types.
 
   - Finland: **Staggering 260% increase**.
-    - Possible Reason: Similar to Spain, an emerging trend in **different** vehicle types.
+    - *Possible Reason*: Similar to Spain, an emerging trend in **different** vehicle types.
   
   - Australia: **Staggering 292% increase**.
-    - Possible Reason: went from **1** customer to **4** customers.
+    - *Possible Reason*: went from **1** customer to **4** customers.
 
 #### Deal Sizes
 - Large Sizes: **51% increase**.
-    - Possible Reason: Consumers shifted from buying vintage cars in only **March and April of 2004** to purchasing them consistently in the **first four months of 2005**.
+    - *Possible Reason*: Consumers shifted from buying vintage cars in only **March and April of 2004** to purchasing them consistently in the **first four months of 2005**.
 
 - Medium Sizes: **34% increase**.
-    - Possible Reason: Consumers shifted from buying in other **different** vehicle types.
+    - *Possible Reason*: Consumers shifted from buying in other **different** vehicle types.
 
 - Small Sizes: **8% increase**.
-    - Possible Reason: Growing interest from other countries like **Australia, Finland, and France**.
+    - *Possible Reason*: Growing interest from other countries like **Australia, Finland, and France**.
 
 #### Top Customers
 - Euro Shopping Channel: **Staggering 242% increase**
