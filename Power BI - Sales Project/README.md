@@ -48,7 +48,8 @@ This sales dataset records from **January 2014** to **April 2017**.
 - Use the filters on the top to select regions, segments, ship modes, product categories, and/or specific time periods.
 - Click on the map to drill down into specific data points.
 
-insert image ----------
+![image](https://github.com/Jessymac96/Data-analyst-projects-by-Jessy-MacIsaac/assets/139941688/4b1802c2-ba9b-4b91-96ba-aadabb3d4f6e)
+
 
 ## Interpretation
 - The line chart displays monthly and yearly sales and profit trends.
