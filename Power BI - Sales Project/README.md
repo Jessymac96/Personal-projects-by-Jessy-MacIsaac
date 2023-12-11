@@ -1,5 +1,5 @@
 # Sales Performance Dashboard with Power BI
-Welcome to my first Power BI project. The primary objective of this project is to explore and analyze the superstore sales data, to uncover insightful trends and meaningful patterns.
+Welcome to my first **Power BI project**. The primary objective of this project is to explore and analyze the superstore sales data, to uncover insightful trends and meaningful patterns.
 I aim to showcase my skills in data cleaning, visualization creation, and interpretation of key metrics.
 
 ## Table of Contents
@@ -17,6 +17,8 @@ I aim to showcase my skills in data cleaning, visualization creation, and interp
 
 ## Data Source
 Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final 
+
+This sales dataset records from **January 2014** to **April 2017**.
 
 | Columns | Description |
 | --- | --- |
@@ -46,31 +48,48 @@ Source: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 - Use the filters on the top to select regions, segments, ship modes, product categories, and/or specific time periods.
 - Click on the map to drill down into specific data points.
 
-![123231232131](https://github.com/Jessymac96/Data-analyst-projects-by-Jessy-MacIsaac/assets/139941688/d234a8d8-843b-44b1-afe0-f5cff6b1e81d)
-
+insert image ----------
 
 ## Interpretation
-- The line chart displays monthly and yearly sales trends.
+- The line chart displays monthly and yearly sales and profit trends.
 - The map visualizes sales by state.
 - Bar charts show region, category, and sub-category.
 - Donut charts show segment and ship mode.
 - Statistics show the sum of sales, sum of profit, number of orders, and number of customers.
 
+
 ## Summary of Findings
-### Monthly sales trend.
-- This line chart has consistent sales growth, except for a sharp decline in sales and a subsequent decrease in profits every January and February.
-- Despite overall growth, the drop in these months suggests a post-holiday sales slump, suggesting a need for focused winter marketing strategies to counteract this seasonal decline.
+### Dashboard Overview
+#### Monthly Sales Trend.
+- This line chart shows a significant increase in sales and profits every **fall** followed by a substantial decrease.
 
-### Top-selling products
-- Over the past 3 years, phones and chairs have consistently demonstrated high demand as technological products, while storage, tables, and blinders have followed closely as secondary contenders.
-- From 2016 to 2017, phone sales increased by 33% due to technological advancements, new features, and the release of new models.
+#### Sales by Region and State
+- *Western Region*: Leads with an impressive **725k** in sales.
+    - Chairs, phones, and tables are the most popular items.
 
-### Sales by region and state
-- Over 3 years, the west and east are leading, followed by the central and southern regions.
-- From 2016 to 2017, sales in the West and South regions increased by over 30%, while the East saw an 18% increase. However, the Central region experienced a slight decrease in sales.
+- *Eastern Region*: Follows closely with a total of **nearly 679k** in sales.
+    - Phones, chairs, and storage are the most popular items.
+      
+- *Central Region*: Records sales at **501k**.
+    - Phones, chairs, and Blinders are the most popular items.
+      
+- *Southern Region*: Achieves sales totaling **nearly 392k**.
+    - Phones, machines, and chairs are the most popular items.
+
+#### Top-Selling Products
+- Phones and chairs have consistently demonstrated high demand as technological products, while storage, tables, and blinders have followed closely as secondary contenders.
+
+
+### Year-over-Year Comparison: 2016 vs. 2017
+#### Sales by Region and State
+- The sales in the West and South regions increased by **over 30%**, while the East saw an **18%** increase. However, the Central region experienced a slight **decrease** in sales.
+
+#### Top-Selling Products
+- Phone sales increased by **33%** due to technological advancements, new features, and the release of new models.
+- Chair sales increased by **14%**, while storage increased **19%**
 
 ## Acknowledgments
-I would like to extend my gratitude to **Phobia42** and **Shimmer97** who are members of SeattleDataGuy's Data Server for their valuable insights, feedback, and support throughout the development of this project. The discussions and interactions within the community have been instrumental in shaping various aspects of this work.
+I would like to extend my gratitude to **Phobia42** and **Shimmer97** who are members of SeattleDataGuy's Data Server for their guidance and support in building the README file.
 
 ## Contact
-https://www.linkedin.com/in/jessy-macisaac-a7500423b/
+https://www.linkedin.com/in/jessy-macisaac/
