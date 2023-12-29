@@ -1,5 +1,3 @@
-*** Still working on it ***
-
 <a name="readme-top"></a>
 # Vehicle Sales Performance Dashboard with Excel
 Welcome to my **SQL relational database project**. The primary objective of this project is to explore and analyze the school database using joins and sub-querying.
@@ -8,13 +6,13 @@ Welcome to my **SQL relational database project**. The primary objective of this
 ## Table of Contents
 - [Tools Used](#Tools-Used)
 - [Data Source](#Data-Source)
-- [Data Modelling Diagram](#Data-Modelling-Diagram)
+- [Data Modeling Diagram](#Data-Modeling-Diagram)
 - [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
 
 ## Tools Used
 - Microsoft SQL (Joins and Sub-Querying)
-- Data modelling website called Dbdiagram.io 
+- Data modeling website called Dbdiagram.io 
 
 ## Data Source
 Source: https://www.kaggle.com/datasets/bernardnm/great-school
@@ -32,12 +30,13 @@ Source: https://www.kaggle.com/datasets/bernardnm/great-school
 - Consists of subject ID and subject names.
 - Simplifies the representation of academic disciplines.
 
-
 ### Marks
 - Records academic performance, including marks obtained, exam dates, and associated student, teacher, and subject IDs.
 - Facilitates a comprehensive analysis of student achievements across subjects.
 
-## Data Modelling Diagram
+Imported 4 tables into SQL
+
+## Data Modeling Diagram
 ![image](https://github.com/Jessymac96/Data-analyst-projects-by-Jessy-MacIsaac/assets/139941688/de15d898-3450-4a18-84fc-48f4b85bd706)
 
 For more information on this diagram please check: (https://dbdiagram.io/d/School-Database-656f80a156d8064ca073136f)
